@@ -1,0 +1,273 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:gContact='http://schemas.google.com/contact/2008' xmlns:batch='http://schemas.google.com/gdata/batch' xmlns:gd='http://schemas.google.com/g/2005'>
+	<id>kuuga@itconcept.sg</id>
+	<updated>2014-10-31T04:29:02.067Z</updated>
+	<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/contact/2008#contact'/>
+	<title type='text'>Kuuga -'s Contacts</title>
+	<link rel='alternate' type='text/html' href='http://www.google.com/'/>
+	<link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full'/>
+	<link rel='http://schemas.google.com/g/2005#post' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full'/>
+	<link rel='http://schemas.google.com/g/2005#batch' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/batch'/>
+	<link rel='self' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full?max-results=25'/>
+	<link rel='next' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full?start-index=26&amp;max-results=25'/>
+	<author>
+		<name>Kuuga -</name>
+		<email>kuuga@itconcept.sg</email>
+	</author>
+	<generator version='1.0' uri='http://www.google.com/m8/feeds'>Contacts</generator>
+	<openSearch:totalResults>34</openSearch:totalResults>
+	<openSearch:startIndex>1</openSearch:startIndex>
+	<openSearch:itemsPerPage>25</openSearch:itemsPerPage>
+	<entry>
+		<id>http://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/base/3ad04190cfed7eb</id>
+		<updated>2014-05-12T16:47:43.170Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/contact/2008#contact'/>
+		<title type='text'>noreply</title>
+		<link rel='http://schemas.google.com/contacts/2008/rel#edit-photo' type='image/*' href='https://www.google.com/m8/feeds/photos/media/kuuga%40itconcept.sg/3ad04190cfed7eb/1B2M2Y8AsgTpgAmY7PhCfg'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/3ad04190cfed7eb'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/3ad04190cfed7eb/1399913263170001'/>
+		<gd:email rel='http://schemas.google.com/g/2005#other' address='info@shariveweb.com' primary='true'/>
+		<gd:email rel='http://schemas.google.com/g/2005#home' address='kuuga.mail.server@gmail.com'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/base/c62921a8d270b56</id>
+		<updated>2014-06-25T04:14:56.640Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/contact/2008#contact'/>
+		<title type='text'>Lilian</title>
+		<link rel='http://schemas.google.com/contacts/2008/rel#edit-photo' type='image/*' href='https://www.google.com/m8/feeds/photos/media/kuuga%40itconcept.sg/c62921a8d270b56/1B2M2Y8AsgTpgAmY7PhCfg'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/c62921a8d270b56'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/c62921a8d270b56/1403669696640001'/>
+		<gd:email rel='http://schemas.google.com/g/2005#other' address='mail@adaptive.com.sg' primary='true'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/base/efdee41094e17fe</id>
+		<updated>2014-10-01T08:52:41.949Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/contact/2008#contact'/>
+		<title type='text'></title>
+		<link rel='http://schemas.google.com/contacts/2008/rel#edit-photo' type='image/*' href='https://www.google.com/m8/feeds/photos/media/kuuga%40itconcept.sg/efdee41094e17fe/1B2M2Y8AsgTpgAmY7PhCfg'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/efdee41094e17fe'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/efdee41094e17fe/1412153561949001'/>
+		<gd:email rel='http://schemas.google.com/g/2005#other' address='cheewee@icreationslab.com' primary='true'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/base/1233ff5c8b77e22a</id>
+		<updated>2014-05-09T02:36:28.934Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/contact/2008#contact'/>
+		<title type='text'>Steven Go</title>
+		<link rel='http://schemas.google.com/contacts/2008/rel#edit-photo' type='image/*' href='https://www.google.com/m8/feeds/photos/media/kuuga%40itconcept.sg/1233ff5c8b77e22a/1B2M2Y8AsgTpgAmY7PhCfg'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/1233ff5c8b77e22a'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/1233ff5c8b77e22a/1399602988934001'/>
+		<gd:email rel='http://schemas.google.com/g/2005#other' address='steven@itconcept.sg' primary='true'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/base/15157a300b9f2777</id>
+		<updated>2014-09-24T10:23:49.541Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/contact/2008#contact'/>
+		<title type='text'>AUNG HTET</title>
+		<link rel='http://schemas.google.com/contacts/2008/rel#edit-photo' type='image/*' href='https://www.google.com/m8/feeds/photos/media/kuuga%40itconcept.sg/15157a300b9f2777/1B2M2Y8AsgTpgAmY7PhCfg'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/15157a300b9f2777'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/15157a300b9f2777/1411554229541001'/>
+		<gd:email rel='http://schemas.google.com/g/2005#other' address='aung@adaptive.com.sg' primary='true'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/base/1938cdf28b173815</id>
+		<updated>2014-07-08T10:28:06.476Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/contact/2008#contact'/>
+		<title type='text'>PETER LOH</title>
+		<link rel='http://schemas.google.com/contacts/2008/rel#edit-photo' type='image/*' href='https://www.google.com/m8/feeds/photos/media/kuuga%40itconcept.sg/1938cdf28b173815/1B2M2Y8AsgTpgAmY7PhCfg'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/1938cdf28b173815'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/1938cdf28b173815/1404815286476001'/>
+		<gd:email rel='http://schemas.google.com/g/2005#other' address='peter@swiftarrow.net' primary='true'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/base/1bec55d108a83ba7</id>
+		<updated>2014-05-16T03:56:45.200Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/contact/2008#contact'/>
+		<title type='text'>Yulia Tan</title>
+		<link rel='http://schemas.google.com/contacts/2008/rel#edit-photo' type='image/*' href='https://www.google.com/m8/feeds/photos/media/kuuga%40itconcept.sg/1bec55d108a83ba7/1B2M2Y8AsgTpgAmY7PhCfg'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/1bec55d108a83ba7'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/1bec55d108a83ba7/1400212605200000'/>
+		<gd:email rel='http://schemas.google.com/g/2005#other' address='yulia@itconcept.sg' primary='true'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/base/1f1ea5528b41676a</id>
+		<updated>2014-05-12T17:11:21.468Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/contact/2008#contact'/>
+		<title type='text'></title>
+		<link rel='http://schemas.google.com/contacts/2008/rel#edit-photo' type='image/*' href='https://www.google.com/m8/feeds/photos/media/kuuga%40itconcept.sg/1f1ea5528b41676a/1B2M2Y8AsgTpgAmY7PhCfg'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/1f1ea5528b41676a'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/1f1ea5528b41676a/1399914681468001'/>
+		<gd:email rel='http://schemas.google.com/g/2005#other' address='tokainfo@tokutokazone.com' primary='true'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/base/29f4846108ecb166</id>
+		<updated>2014-10-30T04:04:13.193Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/contact/2008#contact'/>
+		<title type='text'>Swift Lyx</title>
+		<link rel='http://schemas.google.com/contacts/2008/rel#edit-photo' type='image/*' href='https://www.google.com/m8/feeds/photos/media/kuuga%40itconcept.sg/29f4846108ecb166/1B2M2Y8AsgTpgAmY7PhCfg'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/29f4846108ecb166'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/29f4846108ecb166/1414641853193001'/>
+		<gd:email rel='http://schemas.google.com/g/2005#other' address='biodata.swiftmaids@gmail.com' primary='true'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/base/2b66af710a4f422b</id>
+		<updated>2014-08-25T09:10:55.759Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/contact/2008#contact'/>
+		<title type='text'></title>
+		<link rel='http://schemas.google.com/contacts/2008/rel#edit-photo' type='image/*' href='https://www.google.com/m8/feeds/photos/media/kuuga%40itconcept.sg/2b66af710a4f422b/1B2M2Y8AsgTpgAmY7PhCfg'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/2b66af710a4f422b'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/2b66af710a4f422b/1408957855759000'/>
+		<gd:email rel='http://schemas.google.com/g/2005#other' address='martin@hartit.com' primary='true'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/base/2fd8ab2c894bdf6c</id>
+		<updated>2014-10-30T10:40:19.318Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/contact/2008#contact'/>
+		<title type='text'></title>
+		<link rel='http://schemas.google.com/contacts/2008/rel#edit-photo' type='image/*' href='https://www.google.com/m8/feeds/photos/media/kuuga%40itconcept.sg/2fd8ab2c894bdf6c/1B2M2Y8AsgTpgAmY7PhCfg'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/2fd8ab2c894bdf6c'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/2fd8ab2c894bdf6c/1414665619318001'/>
+		<gd:email rel='http://schemas.google.com/g/2005#other' address='boliang@singwah.com' primary='true'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/base/3124c6ad0f32dcb4</id>
+		<updated>2014-07-21T08:39:22.083Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/contact/2008#contact'/>
+		<title type='text'>Kim Hong</title>
+		<link rel='http://schemas.google.com/contacts/2008/rel#edit-photo' type='image/*' href='https://www.google.com/m8/feeds/photos/media/kuuga%40itconcept.sg/3124c6ad0f32dcb4/1B2M2Y8AsgTpgAmY7PhCfg'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/3124c6ad0f32dcb4'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/3124c6ad0f32dcb4/1405931962083001'/>
+		<gd:email rel='http://schemas.google.com/g/2005#other' address='gse88168@gmail.com' primary='true'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/base/3499ed0d88b1f685</id>
+		<updated>2014-06-25T04:14:56.640Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/contact/2008#contact'/>
+		<title type='text'>Yeo Chen Yi</title>
+		<link rel='http://schemas.google.com/contacts/2008/rel#edit-photo' type='image/*' href='https://www.google.com/m8/feeds/photos/media/kuuga%40itconcept.sg/3499ed0d88b1f685/1B2M2Y8AsgTpgAmY7PhCfg'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/3499ed0d88b1f685'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/3499ed0d88b1f685/1403669696640001'/>
+		<gd:email rel='http://schemas.google.com/g/2005#other' address='yeo@adaptive.com.sg' primary='true'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/base/395a03550be0e9ad</id>
+		<updated>2014-05-12T16:03:13.259Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/contact/2008#contact'/>
+		<title type='text'>ryu servaiv</title>
+		<link rel='http://schemas.google.com/contacts/2008/rel#edit-photo' type='image/*' href='https://www.google.com/m8/feeds/photos/media/kuuga%40itconcept.sg/395a03550be0e9ad/1B2M2Y8AsgTpgAmY7PhCfg'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/395a03550be0e9ad'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/395a03550be0e9ad/1399910593259001'/>
+		<gd:email rel='http://schemas.google.com/g/2005#other' address='kuuga@shariveweb.com' primary='true'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/base/4022d0970cb4f1b6</id>
+		<updated>2014-09-29T10:55:37.261Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/contact/2008#contact'/>
+		<title type='text'>Kuuga -</title>
+		<link rel='http://schemas.google.com/contacts/2008/rel#edit-photo' type='image/*' href='https://www.google.com/m8/feeds/photos/media/kuuga%40itconcept.sg/4022d0970cb4f1b6/1B2M2Y8AsgTpgAmY7PhCfg'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/4022d0970cb4f1b6'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/4022d0970cb4f1b6/1411988137261000'/>
+		<gd:email rel='http://schemas.google.com/g/2005#other' address='kuuga@itconcept.sg' primary='true'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/base/4363f3b90a1b4791</id>
+		<updated>2014-05-06T03:11:44.846Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/contact/2008#contact'/>
+		<title type='text'>ryu servaiv</title>
+		<link rel='http://schemas.google.com/contacts/2008/rel#edit-photo' type='image/*' href='https://www.google.com/m8/feeds/photos/media/kuuga%40itconcept.sg/4363f3b90a1b4791/J8MQv8r0G3f5FuEC2KSr8w'/>
+		<link rel='http://schemas.google.com/contacts/2008/rel#photo' type='image/*' href='https://www.google.com/m8/feeds/photos/media/kuuga%40itconcept.sg/4363f3b90a1b4791'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/4363f3b90a1b4791'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/4363f3b90a1b4791/1399345904846001'/>
+		<gd:email rel='http://schemas.google.com/g/2005#other' address='ryuki.servaiv@gmail.com' primary='true'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/base/46b41e0f08270e31</id>
+		<updated>2014-04-24T06:05:56.914Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/contact/2008#contact'/>
+		<title type='text'>Stanley Go</title>
+		<link rel='http://schemas.google.com/contacts/2008/rel#edit-photo' type='image/*' href='https://www.google.com/m8/feeds/photos/media/kuuga%40itconcept.sg/46b41e0f08270e31/1B2M2Y8AsgTpgAmY7PhCfg'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/46b41e0f08270e31'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/46b41e0f08270e31/1398319556914001'/>
+		<gd:email rel='http://schemas.google.com/g/2005#other' address='stanley@itconcept.sg' primary='true'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/base/4a6020300cd511ff</id>
+		<updated>2014-09-29T03:18:54.080Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/contact/2008#contact'/>
+		<title type='text'></title>
+		<link rel='http://schemas.google.com/contacts/2008/rel#edit-photo' type='image/*' href='https://www.google.com/m8/feeds/photos/media/kuuga%40itconcept.sg/4a6020300cd511ff/1B2M2Y8AsgTpgAmY7PhCfg'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/4a6020300cd511ff'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/4a6020300cd511ff/1411960734080001'/>
+		<gd:email rel='http://schemas.google.com/g/2005#other' address='david@alliedmfg.com.sg' primary='true'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/base/4ab47d678d6df980</id>
+		<updated>2014-08-05T09:16:01.992Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/contact/2008#contact'/>
+		<title type='text'>Herry Purnawan</title>
+		<link rel='http://schemas.google.com/contacts/2008/rel#edit-photo' type='image/*' href='https://www.google.com/m8/feeds/photos/media/kuuga%40itconcept.sg/4ab47d678d6df980/1B2M2Y8AsgTpgAmY7PhCfg'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/4ab47d678d6df980'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/4ab47d678d6df980/1407230161992001'/>
+		<gd:email rel='http://schemas.google.com/g/2005#other' address='herry@itconcept.sg' primary='true'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/base/4ea85b408e543a79</id>
+		<updated>2014-10-13T04:02:47.428Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/contact/2008#contact'/>
+		<title type='text'>Glendon Loo</title>
+		<link rel='http://schemas.google.com/contacts/2008/rel#edit-photo' type='image/*' href='https://www.google.com/m8/feeds/photos/media/kuuga%40itconcept.sg/4ea85b408e543a79/1B2M2Y8AsgTpgAmY7PhCfg'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/4ea85b408e543a79'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/4ea85b408e543a79/1413172967428001'/>
+		<gd:email rel='http://schemas.google.com/g/2005#other' address='glendon@swiftmaids.com.sg' primary='true'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/base/4f2c1e008a0280d2</id>
+		<updated>2014-08-20T05:03:15.159Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/contact/2008#contact'/>
+		<title type='text'>SWIFT ARROW - FAR EAST</title>
+		<link rel='http://schemas.google.com/contacts/2008/rel#edit-photo' type='image/*' href='https://www.google.com/m8/feeds/photos/media/kuuga%40itconcept.sg/4f2c1e008a0280d2/1B2M2Y8AsgTpgAmY7PhCfg'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/4f2c1e008a0280d2'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/4f2c1e008a0280d2/1408510995159000'/>
+		<gd:email rel='http://schemas.google.com/g/2005#other' address='far.east@swiftarrow.net' primary='true'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/base/52fb87468f271e60</id>
+		<updated>2014-08-19T05:02:31.585Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/contact/2008#contact'/>
+		<title type='text'>William</title>
+		<link rel='http://schemas.google.com/contacts/2008/rel#edit-photo' type='image/*' href='https://www.google.com/m8/feeds/photos/media/kuuga%40itconcept.sg/52fb87468f271e60/1B2M2Y8AsgTpgAmY7PhCfg'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/52fb87468f271e60'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/52fb87468f271e60/1408424551585001'/>
+		<gd:email rel='http://schemas.google.com/g/2005#other' address='william@sgdomain.com' primary='true'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/base/53707f3808190a39</id>
+		<updated>2014-06-12T05:53:52.129Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/contact/2008#contact'/>
+		<title type='text'>kozen susantio</title>
+		<link rel='http://schemas.google.com/contacts/2008/rel#edit-photo' type='image/*' href='https://www.google.com/m8/feeds/photos/media/kuuga%40itconcept.sg/53707f3808190a39/1B2M2Y8AsgTpgAmY7PhCfg'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/53707f3808190a39'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/53707f3808190a39/1402552432129001'/>
+		<gd:email rel='http://schemas.google.com/g/2005#other' address='kozens@yahoo.com' primary='true'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/base/556b61230a869a21</id>
+		<updated>2014-10-01T08:52:41.949Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/contact/2008#contact'/>
+		<title type='text'>Eric</title>
+		<link rel='http://schemas.google.com/contacts/2008/rel#edit-photo' type='image/*' href='https://www.google.com/m8/feeds/photos/media/kuuga%40itconcept.sg/556b61230a869a21/1B2M2Y8AsgTpgAmY7PhCfg'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/556b61230a869a21'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/556b61230a869a21/1412153561949001'/>
+		<gd:email rel='http://schemas.google.com/g/2005#other' address='eric@arrowmaid.sg' primary='true'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/base/58cbe4da8bd0a1b7</id>
+		<updated>2014-09-29T03:18:54.080Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/contact/2008#contact'/>
+		<title type='text'>alex</title>
+		<link rel='http://schemas.google.com/contacts/2008/rel#edit-photo' type='image/*' href='https://www.google.com/m8/feeds/photos/media/kuuga%40itconcept.sg/58cbe4da8bd0a1b7/1B2M2Y8AsgTpgAmY7PhCfg'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/58cbe4da8bd0a1b7'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/m8/feeds/contacts/kuuga%40itconcept.sg/full/58cbe4da8bd0a1b7/1411960734080001'/>
+		<gd:email rel='http://schemas.google.com/g/2005#other' address='alex@alliedmfg.com.sg' primary='true'/>
+	</entry>
+</feed>
